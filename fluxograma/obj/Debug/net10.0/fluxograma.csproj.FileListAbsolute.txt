@@ -1,0 +1,15 @@
+c:\Dev\uc00245-fluxograma-01\fluxograma\bin\Debug\net10.0\fluxograma.exe
+c:\Dev\uc00245-fluxograma-01\fluxograma\bin\Debug\net10.0\fluxograma.deps.json
+c:\Dev\uc00245-fluxograma-01\fluxograma\bin\Debug\net10.0\fluxograma.runtimeconfig.json
+c:\Dev\uc00245-fluxograma-01\fluxograma\bin\Debug\net10.0\fluxograma.dll
+c:\Dev\uc00245-fluxograma-01\fluxograma\bin\Debug\net10.0\fluxograma.pdb
+c:\Dev\uc00245-fluxograma-01\fluxograma\obj\Debug\net10.0\fluxograma.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dev\uc00245-fluxograma-01\fluxograma\obj\Debug\net10.0\fluxograma.AssemblyInfoInputs.cache
+c:\Dev\uc00245-fluxograma-01\fluxograma\obj\Debug\net10.0\fluxograma.AssemblyInfo.cs
+c:\Dev\uc00245-fluxograma-01\fluxograma\obj\Debug\net10.0\fluxograma.csproj.CoreCompileInputs.cache
+c:\Dev\uc00245-fluxograma-01\fluxograma\obj\Debug\net10.0\fluxograma.sourcelink.json
+c:\Dev\uc00245-fluxograma-01\fluxograma\obj\Debug\net10.0\fluxograma.dll
+c:\Dev\uc00245-fluxograma-01\fluxograma\obj\Debug\net10.0\refint\fluxograma.dll
+c:\Dev\uc00245-fluxograma-01\fluxograma\obj\Debug\net10.0\fluxograma.pdb
+c:\Dev\uc00245-fluxograma-01\fluxograma\obj\Debug\net10.0\fluxograma.genruntimeconfig.cache
+c:\Dev\uc00245-fluxograma-01\fluxograma\obj\Debug\net10.0\ref\fluxograma.dll
